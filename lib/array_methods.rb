@@ -1,8 +1,10 @@
-def using_include(array, element)
+def array=["leo","tay","max"]
+  array.include?("max")
 
 end
 
-def using_sort(array)
+def array2=["world","planet","moon",]
+  a
 
 end
 
